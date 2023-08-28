@@ -21,7 +21,7 @@ Just look at it...
 - Mitfox - for making the client.
 - [3000IQPlay][3000IQPlayA] - cracking + deobfuscating the client.
 - [ethanol][ethanolA] - making this awesome README, providing emotional support for 3000IQPlay
-- Atom - providing a jar.
+- ??? - providing a jar.
 
 # Download
 To download this amazing client click [here][download] 
