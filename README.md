@@ -15,7 +15,7 @@ Just look at it...
 # PS:
 **Make sure to use -noverify in your JVM Arguments**
 
-![image](https://github.com/Cool-Cracking-Team/RavenB-/assets/75604883/55db9418-0bd4-42bd-85be-dd77d5de4852)
+![image](https://media.discordapp.net/attachments/1139492863537860689/1145792961624416376/259542387-55db9418-0bd4-42bd-85be-dd77d5de4852.png?width=645&height=118)
 
 # Credits
 - Mitfox - for making the client.
